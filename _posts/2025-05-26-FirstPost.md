@@ -17,4 +17,4 @@ tags: [TAG]     # TAG names should always be lowercase
 [Chirpy에서 새 글 작성법](https://chirpy.cotes.page/posts/write-a-new-post/)
 
 <br>
-<img src="/img/박명수_파이팅.jpg" alt="박명수 파이팅" width="300">
+<img src="/yulimmm.io/img/박명수_파이팅.jpg" alt="박명수 파이팅" width="300">
