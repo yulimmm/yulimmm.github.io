@@ -2,7 +2,7 @@
 title: 첫 번째 포스팅
 date: 2025-05-26 00:00:00 +/-TTTT
 categories: [회고]
-tags: [TAG]     # TAG names should always be lowercase
+tags: [회고]     # TAG names should always be lowercase
 ---
 
 블로그를 만들었다. <br>
@@ -17,4 +17,4 @@ tags: [TAG]     # TAG names should always be lowercase
 [Chirpy에서 새 글 작성법](https://chirpy.cotes.page/posts/write-a-new-post/)
 
 <br>
-<img src="/assets/img/박명수_파이팅.jpg" alt="박명수 파이팅" width="300">
+<img src="/assets/img/박명수_파이팅.jpg" alt="박명수 image" width="300" />
