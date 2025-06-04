@@ -19,5 +19,4 @@ tags: [회고]     # TAG names should always be lowercase
 <br>
 
 <img src="/assets/img/박명수_파이팅.jpg" alt="박명수 image" width="300" >
-<img src="/assets/img/snoopy1.jpg" alt="맹구 image" width="300" >
 
