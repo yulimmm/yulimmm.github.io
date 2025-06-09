@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Might be something # the main title
 
-tagline: UI/UX Desgin & Frontend development # it will display as the subtitle
+tagline: Desgin & development # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A tech blog for studying frontend development and design.
